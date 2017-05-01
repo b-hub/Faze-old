@@ -1,0 +1,1 @@
+c:\users\ben magistris\documents\visual studio 2017\Projects\NodeTs\NodeTs\bin\Microsoft.NodejsTools.WebRole.dll

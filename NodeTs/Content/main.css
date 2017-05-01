@@ -1,0 +1,12 @@
+﻿body {
+    background-color: black;
+    color: white;
+}
+
+#canvasContainer {
+    position: relative;
+}
+
+.canvasLayer {
+    position: absolute;
+}

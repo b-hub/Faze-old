@@ -1,0 +1,13 @@
+{
+  "name": "node-ts",
+  "version": "0.0.0",
+  "description": "NodeTs",
+  "main": "app.js",
+  "author": {
+    "name": "Ben Magistris"
+  },
+  "dependencies": {
+    "connect": "^3.6.1",
+    "serve-static": "^1.12.2"
+  }
+}
